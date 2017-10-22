@@ -19,7 +19,7 @@
 
 任务描述
 ---
-* 参考示例图(点击查看)[http://7xrp04.com1.z0.glb.clouddn.com/task_1_1_1.jpg]，完成一个HTML页面代码编写（不写CSS，不需要关注样式，只关注文档结构）
+* 参考示例图(点击查看)[http://7xrp04.com1.z0.glb.clouddn.com/task_1_1_1.jpg] ，完成一个HTML页面代码编写（不写CSS，不需要关注样式，只关注文档结构）
 
 
 任务注意事项
@@ -41,6 +41,7 @@
 * [MDN HTML入门](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Introduction)
 * [慕课HTML+CSS基础教程视频](http://www.imooc.com/learn/9)
 
-任务链接
+教程2教程
 ---
-http://ife.baidu.com/task/detail?taskId=1
+
+http://www.runoob.com/html/html-tutorial.html
